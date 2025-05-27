@@ -1,8 +1,4 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=&animation=fadeIn&fontColor=ffffff&fontSize=40" />
-    </div>
-    <div>
-  
+
   ## 👀 About Me
   #### :raising_hand: I am a Frontend Developer from South Korea<br/>
   #### :fire: I aim to become a Frontend Developer<br/>
